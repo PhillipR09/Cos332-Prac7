@@ -2,7 +2,7 @@
 Cos332 Prac 7 ( e-mail program )
 
 
-Ek het die basiese program so ver , as jy dit wil toets gaan jy jou gmail account moet stel om dit te kan doen :
+Ek het die basiese program so ver die delete werk nog nie 100% nie , as jy dit wil toets gaan jy jou gmail account moet stel om dit te kan doen :
 
 https://myaccount.google.com/apppasswords
 create 'n password daar, en gebruik dit op die program 
